@@ -15,4 +15,3 @@ Python, NLP, Scikit-learn, Streamlit
 ## Run Locally
 pip install -r requirements.txt
 streamlit run app.py
-
